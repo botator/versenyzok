@@ -1,0 +1,14 @@
+C:\Users\bastyai.botond\Desktop\verseny\verseny\bin\Debug\net8.0\verseny.exe
+C:\Users\bastyai.botond\Desktop\verseny\verseny\bin\Debug\net8.0\verseny.deps.json
+C:\Users\bastyai.botond\Desktop\verseny\verseny\bin\Debug\net8.0\verseny.runtimeconfig.json
+C:\Users\bastyai.botond\Desktop\verseny\verseny\bin\Debug\net8.0\verseny.dll
+C:\Users\bastyai.botond\Desktop\verseny\verseny\bin\Debug\net8.0\verseny.pdb
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\verseny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\verseny.AssemblyInfoInputs.cache
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\verseny.AssemblyInfo.cs
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\verseny.csproj.CoreCompileInputs.cache
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\verseny.dll
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\refint\verseny.dll
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\verseny.pdb
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\verseny.genruntimeconfig.cache
+C:\Users\bastyai.botond\Desktop\verseny\verseny\obj\Debug\net8.0\ref\verseny.dll
